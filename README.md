@@ -1,5 +1,7 @@
 # Nonogram Solver
 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Nonogram.svg/1200px-Nonogram.svg.png" title="Nonogram" width="600px" height="400px">
+
 ## Introduction 
 
 This is a Nonogram solver implemented in Matlab. 
